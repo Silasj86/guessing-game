@@ -25,4 +25,4 @@ if (guess === 'q') {
 } else {
     console.log('YOU GOT IT!!');
     prompt(`YOU GOT IT, I love you and you are amazing!!! And it only took you ${attempts} guesses`)
-} 
+}
